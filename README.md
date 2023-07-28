@@ -2,4 +2,4 @@
 
 Alpha printing machine
 
-$$\aplha$$
+$$\alpha$$
