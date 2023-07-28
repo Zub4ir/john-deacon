@@ -3,3 +3,4 @@
 Alpha printing machine
 
 $$\alpha$$
+$$\alpha$$
